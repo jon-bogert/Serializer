@@ -57,6 +57,8 @@ int main()
 
     // Use/Change Data
     serializer.SaveTo("myFile.yaml");
+
+    return 0;
 }
 ```
 
